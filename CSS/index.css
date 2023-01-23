@@ -1,0 +1,47 @@
+ * {
+     margin-left: auto;
+     padding: 0;
+     list-style: none;
+     text-decoration: none;
+ }
+
+ body {
+    Background-color: #FFEDE4;
+    padding: 25px;
+    width: 500px;
+    height: 600px;
+    margin: 0px auto;
+}
+ 
+ header {
+     display: inline;
+     width: 100px;
+     height: 23px;
+     padding: 1%;
+         border: 1px solid blue;
+     Background-color: #545353;
+     background-size: cover;
+     vertical-align: top;
+     text-align: center;
+ }
+nav{
+
+}
+li{
+
+}
+  footer {
+     background-color: #545353;
+
+     display: inline-block;
+     vertical-align: bottom;
+
+    }
+ .logo{
+    width: 23%;
+    padding: 1%;
+ }
+ .inline-block{
+    display:inline-block;
+    vertical-align:top;
+ }
