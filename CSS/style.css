@@ -1,4 +1,4 @@
-p {
+/* p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     color: blue;
@@ -38,12 +38,16 @@ li{
 
 }
   footer {
-     background-color: #545353;
-
-     display: inline-block;
-     vertical-align: bottom;
-
-    }
+     display: inline;
+     width: 100px;
+     height: 23px;
+     padding: 1%;
+         border: 1px solid blue;
+     Background-color: #545353;
+     background-size: cover;
+     vertical-align: top;
+     text-align: center;
+ }
  .logo{
     width: 23%;
     padding: 1%;
@@ -51,4 +55,8 @@ li{
  .inline-block{
     display:inline-block;
     vertical-align:top;
+ } */
+ .logo{
+    height: 50px;
+    width: auto;
  }
